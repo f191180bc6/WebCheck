@@ -1,0 +1,6 @@
+*.o
+WebCheck
+ui_*
+moc_*
+*~
+Makefile
